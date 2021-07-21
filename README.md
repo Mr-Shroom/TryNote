@@ -1,11 +1,11 @@
 # Photobia
 
 ## Table of contents
-* [Application Link](#Application link)
+* [Application Link](#application-link)
 * [General info](#general-info)
 * [Technologies](#technologies)
 
-## Application link
+## Application Link
 
 <a href="https://trynote.herokuapp.com">https://trynote.herokuapp.com</a>
 
