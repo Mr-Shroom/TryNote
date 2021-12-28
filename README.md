@@ -10,7 +10,7 @@
 <a href="https://trynote.herokuapp.com">https://trynote.herokuapp.com</a>
 
 ## General info
-This project is a social media application created using MERN stack. Users can share photos/videos with other people. They can access their profile and view other people's profile/posts as well.
+TryNote is a python web application using flask and sqlite3. Users have to login/register and once they login, they can create notes, view existing notes, update them or delete them.
 
 ## Technologies
 This project is created with:
